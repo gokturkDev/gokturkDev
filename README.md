@@ -1,11 +1,11 @@
 <h3> 👨‍💻: &nbsp;About Me </h3>
 
 - 🔭 I’m currently working on: Trying to learn industry standards and technologies to prepare myself
-- :heart: My favorite language: Dart/Java
+- 🥇 My favorite language: Dart/Java
 - 🌱 I’m currently learning: Clean Code / Neural Networks / AI / Mobile development
-- 👯 I’m always looking to collaborate with: Peers from any cs-related fields!
+- 🤜🤛 I’m always looking to collaborate with: Peers from any cs-related fields!
 - 💬 Ask me about: Collaborations, team work makes the dream work
-- 💜 Interests: Podcasts, D&D, Middle Earth, Seminars, Talks, Internet culture, Video games, Math, Algorithms ( albeit not great ), Novels
+- 🎭 Interests: Podcasts, D&D, Middle Earth, Seminars, Talks, Internet culture, Video games, Math, Algorithms ( albeit not great ), Novels, Theatre/Acting
 - 😄 Pronouns: He/Him/His 
 <br/>
 
