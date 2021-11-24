@@ -6,7 +6,7 @@
 - 🤜🤛 I’m always looking to collaborate with: Peers from any cs-related fields!
 - 💬 Ask me about: Collaborations, team work makes the dream work
 - 🎭 Interests: Podcasts, D&D, Middle Earth, Seminars, Talks, Internet culture, Video games, Math, Algorithms ( albeit not great ), Novels, Theatre/Acting
-- 😄 Pronouns: He/Him/His Straight
+- 😄 Pronouns: He/Him/His Straight ⚤
 <br/>
 
 ## Programming Languages
