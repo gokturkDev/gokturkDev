@@ -8,6 +8,7 @@
 - 🎭 Interests: Podcasts, D&D, Middle Earth, Seminars, Talks, Internet culture, Video games, Math, Algorithms ( albeit not great ), Novels, Theatre/Acting
 - 😄 Pronouns: He/Him/His
 - 🤟 Sexual Orientation: Straight ⚤
+- ![](https://komarev.com/ghpvc/?username=gokturkDev)
 <br/>
 
 ## Programming Languages
