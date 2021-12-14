@@ -67,4 +67,3 @@
 <br/>
 ![gokturkDev stats](https://github-readme-stats.vercel.app/api?username=gokturkDev&show_icons=true&theme=onedark)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gokturkDev&theme=onedark)
