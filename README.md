@@ -1,6 +1,6 @@
 <h3> 👨‍💻: &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on: Trying to learn industry standards to create clean software
+- 🔭 I’m currently working on: Learning industry standards to create clean software
 - 🥇 My favorite language: Dart/Java
 - 🌱 I’m currently learning: Clean Code / Neural Networks / AI / Mobile development
 - 🤜🤛 I’m always looking to collaborate with: Peers from any cs-related fields!
