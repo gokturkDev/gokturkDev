@@ -65,5 +65,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=gokturkDev&theme=onedark)](https://github.com/gokturkDev/github-profile-trophy)
 <br/>
-![gokturkDev stats](https://github-readme-stats.vercel.app/api?username=gokturkDev&show_icons=true&theme=onedark)
-<br/>
