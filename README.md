@@ -1,6 +1,6 @@
 <h3> 👨‍💻: &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on: Blockchain and 
+- 🔭 I’m currently working on: Blockchain and AI
 - 🥇 My favorite language: Dart/Java
 - 🌱 I’m currently learning: Clean Code / Neural Networks / AI / PWA Dev / Blockchain dev
 - 🤜🤛 I’m always looking to collaborate with: Peers from any cs-related fields!
