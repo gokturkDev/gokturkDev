@@ -1,11 +1,7 @@
 <h3> 👨‍💻: &nbsp;About Me </h3>
 
-- 🔭 I’m currently working on: Software Design, Blockchain and AI
+- 🔭 I’m currently working on: AI & Blockchain
 - 🥇 My favorite language: Java
-- 🌱 I’m currently learning: Software Architecture  / Neural Networks / AI / PWA Dev / Blockchain dev
-- 🤜🤛 I’m always looking to collaborate with: Peers from any cs-related fields!
-- 💬 Ask me about: Collaborations, team work makes the dream work
-- 🎭 Interests: Podcasts, D&D, Middle Earth, Seminars, Talks, Internet culture, Video games, Math, Algorithms ( albeit not great ), Novels, Theatre/Acting
 - 😄 Pronouns: He/Him/His
 - 🤟 Sexual Orientation: Straight ⚤
 - ![](https://komarev.com/ghpvc/?username=gokturkDev)
