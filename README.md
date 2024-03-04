@@ -3,7 +3,6 @@
 - 🔭 I’m currently working on: AI & Blockchain
 - 🥇 My favorite language: Java
 - 😄 Pronouns: He/Him/His
-- 🤟 Sexual Orientation: Straight ⚤
 - ![](https://komarev.com/ghpvc/?username=gokturkDev)
 <br/>
 
