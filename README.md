@@ -1,11 +1,3 @@
-<h3> 👨‍💻: &nbsp;About Me </h3>
-
-- 🔭 I’m currently working on: AI
-- 🥇 My favorite language: Java
-- 😄 Pronouns: He/Him/His
-- ![](https://komarev.com/ghpvc/?username=gokturkDev)
-<br/>
-
 ![gitartwork](gitartwork.svg)
 
 ## Programming Languages
